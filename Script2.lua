@@ -1,4 +1,4 @@
-getgenv().click = true
+getgenv().click = false
 
 local plr = game.Players.LocalPlayer
 local gui = plr.PlayerGui.Bubbles
